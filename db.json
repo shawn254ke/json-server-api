@@ -1,0 +1,15 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "name": "Shawn Otieno",
+      "company": "TechWorks",
+      "email": "shawn@example.com",
+      "phone": "0712345678",
+      "source": "Website",
+      "status": "New",
+      "createdOn": "2025-04-25T00:00:00.000Z",
+      "notes": ["Initial contact made.", "Waiting for response."]
+    }
+  ]
+}
